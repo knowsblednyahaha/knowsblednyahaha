@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @knowsblednyahaha
+- 👋 Hi, I’m Daniel Zyrick
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning some javascript frameworks
 - 💞️ I’m looking to collaborate on some projects
