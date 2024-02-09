@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Zyrick Gayao
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning some javascript frameworks
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the backend stuff of next.js framework
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me @ my email: daniel.gayao7@gmail.com
 
