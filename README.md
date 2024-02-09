@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Zyrick
+- 👋 Hi, I’m Daniel Zyrick Gayao
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning some javascript frameworks
 - 💞️ I’m looking to collaborate on some projects
